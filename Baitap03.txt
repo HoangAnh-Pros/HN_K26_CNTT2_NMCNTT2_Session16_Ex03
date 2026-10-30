@@ -1,0 +1,11 @@
+Bài 3 : Xây dựng Không gian Cộng tác Doanh nghiệp
+*Vấn đề:Dự án bãi đỗ xe thông minh của nhóm đang bị quản lý chưa chặt chẽ trên Messenger. Các thông báo kỹ thuật về cảm biến bị lẫn lộn giữa các tin nhắn tán gẫu và meme hài hước. Thành viên thường xuyên quên deadline vì tin nhắn bị đè nát.
+*Yêu cầu:- Sơ đồ kiến trúc kênh: Danh sách các Channel cần có và quy định nội dung cho từng kênh.
+         - Bản quy ước giao tiếp: 3 quy tắc vàng để tránh No-Hello Trap và spam @all.
+*Cách làm bài:
+-Sơ đồ kiến trúc kênh:
+|#technical : trao đổi kĩ thuật     |
+|#tasks : công việc                 |
+|#nofi : thông báo                  |
+|#lounge : Danh sách các việc khác  |
+                                                        
